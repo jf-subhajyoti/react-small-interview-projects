@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+.breadcrums {
+  display: flex;
+  gap: 0.5rem;
+
+  span {
+    color: #888;
+    opacity: .8;
+  }
+}
+
+.cotegories {
+  display: flex;
+  gap: 1rem;
+}

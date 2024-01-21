@@ -15,7 +15,7 @@ const Home = () => {
         dispatch(addBreadcrumToLast(category)); 
     } 
     return (
-        <div>
+        <div className='cotegories'>
             {
                 categoryList?.map(category => {
                     return (
