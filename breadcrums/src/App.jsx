@@ -17,7 +17,7 @@ function App() {
   } 
   return (
     <BrowserRouter>
-      <div className='breadcrums' style={{}}>
+      <div className='breadcrums'>
         {
           breadcrum?.bredcrumList?.length > 1 && breadcrum?.bredcrumList.map((ele, index) => {
             if(breadcrum.bredcrumList.length > index + 1) {
