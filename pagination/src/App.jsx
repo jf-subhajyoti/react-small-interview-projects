@@ -1,9 +1,11 @@
 import './App.css'
+import ProductList from './component/product-list/ProductList'
 
 function App() {
   return (
     <>
-      <div>App</div>
+      <h2>Subhajyoti Store</h2>
+      <ProductList pageSize={15} />
     </>
   )
 }
