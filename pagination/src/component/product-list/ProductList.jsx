@@ -18,7 +18,6 @@ const ProductList = ({ pageSize = 25 }) => {
                     limit: pageSize,
                 }
             });
-            console.log(res);
             setProduct(res.data.products);
             totalProduct.current = res.data.total;
         }
