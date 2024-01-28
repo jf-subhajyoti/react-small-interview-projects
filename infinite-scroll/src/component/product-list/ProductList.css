@@ -1,0 +1,19 @@
+.product_wrapper {
+    margin-top: 1rem;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.product_footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: .75rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    span {
+        opacity: 0.9;
+    }
+}
