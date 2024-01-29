@@ -1,122 +1,122 @@
 export const users = [
     {
-        "fullname": "Terry Medhurst",
+        "fullName": "Terry Medhurst",
         "id": 1
     },
     {
-        "fullname": "Sheldon Quigley",
+        "fullName": "Sheldon Quigley",
         "id": 2
     },
     {
-        "fullname": "Terrill Hills",
+        "fullName": "Terrill Hills",
         "id": 3
     },
     {
-        "fullname": "Miles Cummerata",
+        "fullName": "Miles Cummerata",
         "id": 4
     },
     {
-        "fullname": "Mavis Schultz",
+        "fullName": "Mavis Schultz",
         "id": 5
     },
     {
-        "fullname": "Alison Reichert",
+        "fullName": "Alison Reichert",
         "id": 6
     },
     {
-        "fullname": "Oleta Abbott",
+        "fullName": "Oleta Abbott",
         "id": 7
     },
     {
-        "fullname": "Ewell Mueller",
+        "fullName": "Ewell Mueller",
         "id": 8
     },
     {
-        "fullname": "Demetrius Corkery",
+        "fullName": "Demetrius Corkery",
         "id": 9
     },
     {
-        "fullname": "Eleanora Price",
+        "fullName": "Eleanora Price",
         "id": 10
     },
     {
-        "fullname": "Marcel Jones",
+        "fullName": "Marcel Jones",
         "id": 11
     },
     {
-        "fullname": "Assunta Rath",
+        "fullName": "Assunta Rath",
         "id": 12
     },
     {
-        "fullname": "Trace Douglas",
+        "fullName": "Trace Douglas",
         "id": 13
     },
     {
-        "fullname": "Enoch Lynch",
+        "fullName": "Enoch Lynch",
         "id": 14
     },
     {
-        "fullname": "Jeanne Halvorson",
+        "fullName": "Jeanne Halvorson",
         "id": 15
     },
     {
-        "fullname": "Trycia Fadel",
+        "fullName": "Trycia Fadel",
         "id": 16
     },
     {
-        "fullname": "Bradford Prohaska",
+        "fullName": "Bradford Prohaska",
         "id": 17
     },
     {
-        "fullname": "Arely Skiles",
+        "fullName": "Arely Skiles",
         "id": 18
     },
     {
-        "fullname": "Gust Purdy",
+        "fullName": "Gust Purdy",
         "id": 19
     },
     {
-        "fullname": "Lenna Renner",
+        "fullName": "Lenna Renner",
         "id": 20
     },
     {
-        "fullname": "Doyle Ernser",
+        "fullName": "Doyle Ernser",
         "id": 21
     },
     {
-        "fullname": "Tressa Weber",
+        "fullName": "Tressa Weber",
         "id": 22
     },
     {
-        "fullname": "Felicity O'Reilly",
+        "fullName": "Felicity O'Reilly",
         "id": 23
     },
     {
-        "fullname": "Jocelyn Schuster",
+        "fullName": "Jocelyn Schuster",
         "id": 24
     },
     {
-        "fullname": "Edwina Ernser",
+        "fullName": "Edwina Ernser",
         "id": 25
     },
     {
-        "fullname": "Griffin Braun",
+        "fullName": "Griffin Braun",
         "id": 26
     },
     {
-        "fullname": "Piper Schowalter",
+        "fullName": "Piper Schowalter",
         "id": 27
     },
     {
-        "fullname": "Kody Terry",
+        "fullName": "Kody Terry",
         "id": 28
     },
     {
-        "fullname": "Macy Greenfelder",
+        "fullName": "Macy Greenfelder",
         "id": 29
     },
     {
-        "fullname": "Maurine Stracke",
+        "fullName": "Maurine Stracke",
         "id": 30
     }
 ]
