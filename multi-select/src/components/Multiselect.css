@@ -28,7 +28,7 @@
                 white-space: nowrap;
                 overflow: hidden;
                 padding: 0 0.25rem;
-
+                cursor: pointer;
             }
         }
         input {
@@ -41,9 +41,11 @@
     }
     .search_suggestions_wrapper {
         max-height: 200px;
-        overflow-y: scroll;
+        overflow-y: auto;
+
         .search_suggestions {
             padding: .25rem .5rem;
+            cursor: pointer;
         }
     }
 
