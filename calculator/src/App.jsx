@@ -23,7 +23,7 @@ function App() {
     setResult(eval(newCal).toString());
   }
   const addOperand = (value) => {
-    if(cal === "" || operands.includes(cal.charAt[cal.length - 1]) || cal.charAt[cal.length - 1] === '.') {
+    if(cal === "" || operands.includes(cal[cal.length - 1]) || cal[cal.length - 1] === '.') {
       return;
     }
     setCal(prev => prev + value);
